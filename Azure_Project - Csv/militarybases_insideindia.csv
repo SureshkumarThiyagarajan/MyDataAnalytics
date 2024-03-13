@@ -1,27 +1,18 @@
-"ArmedForceType","Name","District","State","Description"
-"IndianArmy","Army Training Command (ARTRAC)","Shimla","Himachal Pradesh","The Army Training Command established on 1 October 1991 at Mhow in Madhya Pradesh and Moved to Shimla on 31 March 1993.
-The main aim of the command is to maximize effectiveness of the training"
-"IndianArmy","Northern Army Command ","Udhampur","Jammu & Kashmir","The Northern Command is a command of the Indian Army, based in Udhampur. It was originally established in 1908 as the Northern Army of the British Indian Army. 
-In 1947, it was scrapped, but was re-raised in 1972."
-"IndianArmy","Western Army Command","Chandimandir","Haryana","The Western Command is a command-level formation of the Indian Army. It was established in 1920 and disbanded in 1947. 
-The Western Command was re-established in 1947 after the Northern Command HQ was moved to Pakistan. The Western Command's headquarters are located in Chandimandir Cantonment."
-"IndianArmy","South Western Army Command","Jaipur ","Rajasthan","The South Western Command of the Indian Army is the youngest command in the Indian Army. It was established on April 15, 2005 and is headquartered in Jaipur, Rajasthan. The command is responsible for guarding India's border with Pakistan in Punjab and Rajasthan."
-"IndianArmy","Southern Army Command","Pune ","Maharashtra","The Southern Command is the oldest and largest command, raised on April 1, 1895. The headquarters of the Southern Command is located in Pune Cantonment, which also contains the National War Memorial Southern Command."
-"IndianArmy","Central Army Command","Lucknow","Uttar Pradesh","The Central Command is responsible for defending the central sector along the LAC and the international border with Nepal. "
-"IndianArmy","Eastern Army Command","Kolkata","West Bengal","The Eastern Command is one of the six operational commands of the Indian Army. It is headquartered in Fort William in the city of Kolkata in the state of West Bengal. The Eastern Command was formed on 1 November 1920. The Command is commanded by a three-star rank officer with the title General Officer Commanding-in-Chief (GOC-in-C)."
-"IndianNavy","Western Naval Command","Mumbai ","Maharashtra","The Western Naval Command (WNC) is one of the three command-level formations of the Indian Navy. It is headquartered in Mumbai, Maharashtra, and was formed on March 1, 1968. The WNC is responsible for the following:
-* All naval forces in the Arabian Sea and western parts of the Indian Ocean
-* Naval establishments on the west coast of India.
-"
-"IndianNavy","Southern Naval Command","Kochi","Kerala","The Southern Naval Command is a command-level formation of the Indian Navy. It's located at INS Venduruthy in Kochi, Kerala. The Southern Naval Command is the Indian Navy's training command."
-"IndianNavy","Eastern Naval Command","Visakhapatnam","Andhra Pradesh","The Eastern Naval Command is one of three command-level formations of the Indian Navy. It is headquartered in Visakhapatnam, Andhra Pradesh. The command is responsible for:
-All naval forces in the Bay of Bengal
-Parts of the Indian Ocean
-Naval establishments on the east coast of India"
-"IndianAirForce","Western Air Command","Dehli","New Dehli","The Western Air Command (WAC) is the regional command of Indian Air Force headquartered in New Delhi. It is the largest and most important Air Command of the IAF, comprising sixteen Air Force Bases (AFBs), and is responsible for aerial defence of North India."
-"IndianAirForce","South Western Air Command","Gandhinagar","Gujarat","The SWAC was originally established in Jodhpur in 1972 as the No. 1 Operational Group of the Western Air Command. In 1980, it was rechristened as the SWAC. "
-"IndianAirForce","Maintenance Air Command","Nagpur","Maharashtra","The Maintenance Command (MC) is a command of the Indian Air Force (IAF). It is responsible for the maintenance, repair, and overhaul of all aircraft, helicopters, and other equipment. "
-"IndianAirForce","Southern Air Command","Thiruvananthapuram","Kerala","The Southern Air Command (SAC) is one of seven commands of the Indian Air Force (IAF). The SAC was established on July 19, 1984 and has its headquarters in Thiruvananthapuram, India."
-"IndianAirForce","Training Air Command ","Bangalore","Karnataka","The Training Command is the Indian Air Force's command that is responsible for both flying and ground training. The Training Command's headquarters are in Bengaluru, and it was established on July 22, 1949. "
-"IndianAirForce","Eastern Air Command","Shillong","Meghalaya","The Eastern Air Command is one of the five operational commands of the Indian Air Force. Currently headquartered in Shillong in Meghalaya. Named No. 1 Operational Group at the time of its inception, 27 May 1958, it was based at Ranikutir in Kolkata as a part of the Govt's increasing emphasis on defence of the eastern borders. "
-"IndianAirForce","Central Air Command","Allahabad","Uttar Pradesh","The Central Air Command is one of the five operational commands of the Indian Air Force. It is currently headquartered in Allahabad in Uttar Pradesh. It was formed on 19 March 1962, at Rani Kuthee, Calcutta."
+ArmedForceType,Name,District,State,
+IndianArmy,Army Training Command (ARTRAC),Shimla,Himachal Pradesh,
+IndianArmy,Northern Army Command ,Udhampur,Jammu & Kashmir,
+IndianArmy,Western Army Command,Chandimandir,Haryana,
+IndianArmy,South Western Army Command,Jaipur ,Rajasthan,
+IndianArmy,Southern Army Command,Pune ,Maharashtra,
+IndianArmy,Central Army Command,Lucknow,Uttar Pradesh,
+IndianArmy,Eastern Army Command,Kolkata,West Bengal,
+IndianNavy,Western Naval Command,Mumbai ,Maharashtra,
+IndianNavy,Southern Naval Command,Kochi,Kerala,
+IndianNavy,Eastern Naval Command,Visakhapatnam,Andhra Pradesh,
+IndianAirForce,Western Air Command,Dehli,New Dehli,
+IndianAirForce,South Western Air Command,Gandhinagar,Gujarat,
+IndianAirForce,Maintenance Air Command,Nagpur,Maharashtra,
+IndianAirForce,Southern Air Command,Thiruvananthapuram,Kerala,
+IndianAirForce,Training Air Command ,Bangalore,Karnataka,
+IndianAirForce,Eastern Air Command,Shillong,Meghalaya,
+IndianAirForce,Central Air Command,Allahabad,Uttar Pradesh,
